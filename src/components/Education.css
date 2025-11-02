@@ -1,0 +1,107 @@
+.education-section {
+  background-color: white;
+}
+
+.subsection-title {
+  color: var(--primary-color);
+  font-weight: 700;
+  font-size: 1.75rem;
+}
+
+.education-card,
+.certification-card {
+  height: 100%;
+  border: none;
+  border-radius: 15px;
+  overflow: hidden;
+  position: relative;
+}
+
+.education-card::before,
+.certification-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 5px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.education-icon,
+.cert-icon {
+  width: 60px;
+  height: 60px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 1.75rem;
+}
+
+.education-card .card-title,
+.certification-card .card-title {
+  color: var(--primary-color);
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.education-card .institution,
+.certification-card .issuer {
+  color: var(--secondary-color);
+  font-weight: 600;
+  font-size: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.education-card .period {
+  color: var(--text-color);
+  font-weight: 500;
+  margin-bottom: 0;
+}
+
+.cert-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  color: var(--text-color);
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.cert-meta .score {
+  color: #28a745;
+  font-weight: 600;
+}
+
+.certification-card .description {
+  color: var(--text-color);
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .subsection-title {
+    font-size: 1.5rem;
+  }
+
+  .education-icon,
+  .cert-icon {
+    width: 50px;
+    height: 50px;
+    font-size: 1.5rem;
+  }
+
+  .cert-meta {
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+
+  .cert-meta .score {
+    margin-left: 0 !important;
+  }
+}

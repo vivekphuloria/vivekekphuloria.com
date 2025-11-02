@@ -1,0 +1,187 @@
+{
+  "personal": {
+    "name": "Vivek Phuloria",
+    "title": "Data Science & GenAI Leader",
+    "tagline": "Transforming Complex Business Challenges into Scalable AI Solutions",
+    "email": "vivekphuloria@gmail.com",
+    "phone": "+91-8808814140",
+    "linkedin": "https://www.linkedin.com/in/vivekphuloria/",
+    "github": "",
+    "location": "India"
+  },
+  "summary": "Experienced Data Science and GenAI leader with 9 years of experience spanning Data-Scientist, Consulting, and Product roles. Strong technical foundation in ML modeling, Agentic architectures, and Cloud Solutioning. Adept at translating complex business requirements into scalable AI systems designs and managing cross-functional teams to deliver business teams.",
+  "experience": [
+    {
+      "title": "Senior Data Scientist 2 – Delivery and Product",
+      "company": "OneByZero Pvt Ltd",
+      "period": "May 2025 – Present",
+      "duration": "6 months",
+      "description": "Lead Client facing delivery lead for AI Agents, and expansion of AI Factory, both in a PM and hands-on developer capacity",
+      "highlights": [
+        "Delivered outbound cross-sell voice agent for a Philippines Telco - matched human conversion rates and reduced CAC by 40%",
+        "Delivered inbound customer support chat-agent for a Philippines Telco – Increased containment rate from 40% to 70% and feedback score from 6.3 to 8.4",
+        "Developed backend APIs for Workflow Evaluations using LLM-as-a-Judge and Flow Prompting for multi-stage agents",
+        "Led product management for AI Factory's Command Centre — a unified platform for monitoring, governance, and analytics"
+      ],
+      "technologies": ["Agentic AI", "LLM-as-a-Judge", "Voice AI", "Chat AI", "Product Management"]
+    },
+    {
+      "title": "Senior Product Manager – Gen AI",
+      "company": "O9 Solutions Pvt Ltd",
+      "period": "Nov 2023 – May 2025",
+      "duration": "18 Months",
+      "description": "Founding PM leading the GenAI charter for the Supply-Chain Planning SaaS platform",
+      "highlights": [
+        "Built Digital Assistant with LangGraph flows featuring tool-calling, RAG, and NL2SQL capabilities",
+        "Created low-code drag-and-drop workflow interface for custom analyses on real-time user inputs",
+        "Delivered Customized Insights for dashboards based on user persona and past interactions",
+        "Piloted in 6 enterprises, serving 1000+ planners within 5 months of launch",
+        "Improved self-service rate by 80% and NPS by 10% with >80% positive feedback"
+      ],
+      "technologies": ["LangGraph", "RAG", "NL2SQL", "GenAI", "Product Management"]
+    },
+    {
+      "title": "Senior Product Manager - Personalization",
+      "company": "Times Internet (TimesOfIndia.com)",
+      "period": "Nov 2022 – Nov 2023",
+      "duration": "12 Months",
+      "description": "Drove transition from editorial-driven to fully personalized content on TOI Website, App, Push Notifications",
+      "highlights": [
+        "Built data-pipelines to consolidate multiple data sources into a centralized data-lake",
+        "Led stakeholder alignments for transition plans from editorial-led to personalized content",
+        "Extensive A/B testing for multiple ML models, configurations, and approaches",
+        "Achieved 3.5x lift in CTR (~2% to ~7%), 24% lift in Pages/Session, 35% lift in Revenue/User"
+      ],
+      "technologies": ["ML Modeling", "A/B Testing", "Data Engineering", "Personalization"]
+    },
+    {
+      "title": "Data Product Manager",
+      "company": "Apollo 247",
+      "period": "Jan 2021 – Nov 2022",
+      "duration": "23 Months",
+      "description": "Set-up organization's data infra and introduced personalization features across the user-journey",
+      "highlights": [
+        "Built ETL pipelines and Data Lake; platforms for personalization, A/B testing, and monitoring",
+        "Improved Recommendations: Dynamic recommendations based on omnichannel interactions - 13% CTR increase, 28% conversion lift",
+        "Relevant Redirection: Personalized CTAs and offers - 12% bounce rate reduction",
+        "Checkout Recommendations: Increased AOV by 9%",
+        "Soft Subscription: Voluntary reminders for chronic medication - 16% lift in repeat rate",
+        "ML-based Customer targeting: Reduced marketing expense by 14% while increasing repeat rate by 9%"
+      ],
+      "technologies": ["ETL", "Data Lake", "ML", "Personalization", "A/B Testing"]
+    },
+    {
+      "title": "Senior Consultant, Data-Science",
+      "company": "Capgemini Invent",
+      "period": "Mar 2019 – Jan 2021",
+      "duration": "23 Months",
+      "description": "Lead Techno-Functional Consultant for advanced Machine Learning projects",
+      "highlights": [
+        "ProFil: Recruitment tool using transformers (BERT) for embedding and NER, Siamese Neural Networks for matching",
+        "Risk profiling for Insurance by forecasting disease progression and care gaps"
+      ],
+      "technologies": ["BERT", "NER", "Siamese Neural Networks", "Transformers"]
+    },
+    {
+      "title": "Data-Scientist",
+      "company": "Knowledge Foundry Business Solutions",
+      "period": "Jun 2015 – May 2017",
+      "duration": "24 Months",
+      "description": "ML Engineer deriving actionable insights from client data",
+      "highlights": [
+        "Strategy for Retail Chain client – analyzing impact of incentive campaigns and media outreach",
+        "Developed Recommendation Engine for digital media client – 3x lift in CTR"
+      ],
+      "technologies": ["ML", "Recommendation Systems", "Analytics"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA (Finance, Marketing)",
+      "institution": "Management Development Institute (MDI), Gurgaon",
+      "period": "2017-19"
+    },
+    {
+      "degree": "B.Tech (Chemical Engineering)",
+      "institution": "Indian Institute of Technology (IIT)-BHU, Varanasi",
+      "period": "2011-15"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Machine Learning Specialist",
+      "issuer": "Amazon Web Services",
+      "date": "Jan 2021",
+      "score": "931 / 1000",
+      "description": "Build, train, tune, and deploy scalable machine learning models using AWS services and MLOps best practices"
+    },
+    {
+      "name": "AWS Certified Solution Architect Associate",
+      "issuer": "Amazon Web Services",
+      "date": "Dec 2020",
+      "score": "783 / 1000",
+      "description": "Design and deploy, and scale cost and performance optimized solutions using AWS services"
+    },
+    {
+      "name": "Digital Product Management Specialization",
+      "issuer": "University of Virginia (Coursera)",
+      "date": "May 2020",
+      "description": "5 course series (>80 hours) explaining best practices for testing product-market fit, leading agile teams and other product fundamentals"
+    },
+    {
+      "name": "Deep Learning Specialization",
+      "issuer": "DeepLearning.ai",
+      "date": "Sep 2018",
+      "description": "5 course series (>120 hours) explaining various Neural Network architectures and guidelines for structuring DS projects"
+    }
+  ],
+  "skills": {
+    "Product Strategy": [
+      "Product Vision & Road mapping",
+      "Stakeholder Management",
+      "User Experience & Journey Mapping",
+      "Data Driven Insights",
+      "Experimentation and A/B Testing",
+      "Agile Development"
+    ],
+    "Technical Skills": [
+      "Solution Architecture (HLD, LLD)",
+      "Cloud (2x AWS Certified)",
+      "Python (Advanced)",
+      "SQL",
+      "JavaScript"
+    ],
+    "Generative AI": [
+      "Agentic AI Architecture",
+      "HITL application design",
+      "LangChain / LangGraph Ecosystem",
+      "Retrieval Augmented Gen (RAG)",
+      "MCP and Tool Calls",
+      "Prompt Engineering"
+    ],
+    "Data Science": [
+      "Data Engineering, ETL Pipelines",
+      "ML/DL Modelling and Tuning",
+      "Model Deployment and MLOps",
+      "Advanced Analytics and Insights",
+      "Visualization and BI Tools",
+      "Hypothesis Testing"
+    ]
+  },
+  "internships": [
+    {
+      "title": "Investment Banking Intern",
+      "company": "JP Morgan Chase & Co.",
+      "period": "Apr 2018 – May 2018",
+      "duration": "2 months",
+      "description": "Worked with the TMT Asia coverage team, analysing and valuing businesses to prepare pitching material for potential M&A deals. Received a pre-placement offer (PPO)."
+    },
+    {
+      "title": "Data Science Intern",
+      "company": "ePayLater",
+      "period": "Nov 2018 – Jan 2019",
+      "duration": "2 months",
+      "description": "Performed customer profiling for the microlending startup to improve its credit decisions and customize marketing outreach"
+    }
+  ]
+}
